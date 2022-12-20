@@ -1,0 +1,53 @@
+{
+  "posts": [
+  
+  ],
+  "signup": [
+    {
+      "name": "arayan hotel 1",
+      "email": "sibashish@abc.com",
+      "mobile": 8769145511,
+      "password": "password@123",
+      "id": 1
+    },
+    {
+      "name": "Selection",
+      "email": "selection@abc.com",
+      "mobile": 3164631649,
+      "password": "passowrd@123",
+      "id": 2
+    },
+    {
+      "name": "wadhah",
+      "email": "wadhah@gmail.com",
+      "mobile": 251,
+      "password": "0000",
+      "id": 3
+    },
+    {
+      "name": "wael",
+      "email": "waelza@gmail.com",
+      "mobile": 9955,
+      "password": "1111",
+      "id": 4
+    },
+    {
+      "name": "zzz",
+      "email": "wadhzzah@gmail.com",
+      "mobile": "",
+      "password": "1111",
+      "id": 5
+    },
+    {
+      "name": "zee",
+      "email": "wadhahze@gmail.com",
+      "mobile": "",
+      "password": "2111",
+      "id": 6
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
